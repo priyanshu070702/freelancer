@@ -1,0 +1,157 @@
+body {
+    text-align: center;
+}
+
+.i {
+    border-radius: 100%;
+    height: 100px;
+    width: 100px;
+    border-color: yellow;
+    border: 5px solid yellow;
+    margin-left: 20px;
+}
+
+.nav-item {
+    padding-right: 5%;
+    padding-left: 5%;
+    font-size: 20px;
+}
+
+.name {
+    background-image: url(dd.png);
+    height: 300px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding-top: 30px;
+    color: #2940d3;
+    line-height: 2;
+}
+
+h2 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    padding: 20px;
+    padding-bottom: 50px;
+    font-size: 10px;
+    color: #f54748;
+}
+
+.ab {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 200px;
+    width: 270px;
+    border: 5px solid yellow;
+}
+
+.abo {
+    background-color: #a9f1df;
+}
+
+.about {
+    background-color: #00ead3;
+    padding-bottom: 80px;
+    padding-top: 30px;
+}
+
+.pro {
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    border: 5px solid yellow;
+}
+
+.service {
+    background-color: #a9f1df;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bot {
+    margin-bottom: 20px;
+}
+
+.work {
+    background-color: #00ead3;
+}
+
+.wo {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 350px;
+    width: 500px;
+    border: 5px solid yellow;
+}
+
+.seo {
+    background-color: #a9f1df;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.hire {
+    background-color: #00ead3;
+    padding-bottom: 40px;
+}
+
+.f {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+footer {
+    background-color: #a9f1df;
+    padding-bottom: 30px;
+}
+
+.fo {
+    color: green;
+    padding-right: 40px;
+}
+
+h5 {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.fo:hover {
+    color: #2541b2;
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    border: none;
+    outline: none;
+    background-color: yellowgreen;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.back-to-top:hover {
+    background-color: #555;
+}
+
+.back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    border: none;
+    outline: none;
+    background-color: yellowgreen;
+    color: white;
+    cursor: pointer;
+    border-radius: 30px;
+}
